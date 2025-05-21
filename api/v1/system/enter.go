@@ -44,4 +44,5 @@ var (
 	autoCodePackageService  = service.ServiceGroupApp.SystemServiceGroup.AutoCodePackage
 	autoCodeHistoryService  = service.ServiceGroupApp.SystemServiceGroup.AutoCodeHistory
 	autoCodeTemplateService = service.ServiceGroupApp.SystemServiceGroup.AutoCodeTemplate
+	difyService             = service.ServiceGroupApp.SystemServiceGroup.DifySseService
 )

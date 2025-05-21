@@ -17,6 +17,7 @@ type ServiceGroup struct {
 	AuthorityBtnService
 	SysExportTemplateService
 	SysParamsService
+	DifySseService
 	AutoCodePlugin   autoCodePlugin
 	AutoCodePackage  autoCodePackage
 	AutoCodeHistory  autoCodeHistory

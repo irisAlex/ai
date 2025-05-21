@@ -3,3 +3,102 @@
 [github.com/irisAlex/ai/server]2025-05-21 15:46:47.106	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
 [github.com/irisAlex/ai/server]2025-05-21 15:47:01.044	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
 [github.com/irisAlex/ai/server]2025-05-21 15:47:01.044	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 17:05:41.188	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 17:05:41.271	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 17:05:42.230	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 17:32:38.929	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 17:32:38.931	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 17:33:01.444	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 17:33:01.526	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 17:33:02.485	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 17:33:39.267	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 17:33:39.269	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 17:34:01.784	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 17:34:01.864	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 17:34:02.815	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 17:37:48.150	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 17:37:48.151	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 17:38:10.217	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 17:38:10.306	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 17:38:11.267	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 17:39:23.168	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 17:39:23.170	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 17:39:44.803	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 17:39:44.903	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 17:39:46.034	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 17:40:14.815	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 17:40:14.815	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 17:40:36.114	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 17:40:36.194	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 17:40:37.145	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 17:41:50.292	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 17:41:50.292	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 17:42:15.333	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 17:42:15.414	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 17:42:16.373	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 17:43:20.266	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 17:43:20.267	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 17:43:42.413	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 17:43:42.493	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 17:43:43.458	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 17:44:39.539	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 17:44:39.539	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 17:45:02.822	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 17:45:02.914	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 17:45:03.993	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 18:03:26.904	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 18:03:56.963	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 18:03:57.053	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 18:03:58.021	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 18:05:24.469	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 18:05:24.471	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 18:05:47.020	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 18:05:47.101	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 18:05:48.061	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 18:10:54.887	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 18:10:54.889	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 18:11:13.920	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 18:11:14.002	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 18:11:14.959	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 18:14:03.857	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 18:14:03.859	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 18:14:23.312	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 18:14:23.410	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 18:14:24.370	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 18:18:03.691	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 18:18:03.692	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 18:18:25.108	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 18:18:25.189	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 18:18:26.160	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 18:22:10.507	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 18:22:10.507	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 18:22:31.799	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 18:22:31.880	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 18:22:32.841	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 18:27:56.894	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 18:27:56.897	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 18:28:19.203	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 18:28:19.282	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 18:28:20.242	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 18:30:14.300	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 18:30:14.304	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 18:30:35.663	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 18:30:35.757	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 18:30:36.723	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 18:31:08.383	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 18:31:08.385	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 18:31:34.093	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 18:31:34.193	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 18:31:35.364	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 18:33:44.981	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 18:33:44.983	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 18:34:06.401	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 18:34:06.480	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 18:34:07.450	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 18:43:45.316	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 18:43:45.318	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
+[github.com/irisAlex/ai/server]2025-05-21 18:47:32.538	[34minfo[0m	/Users/libin/gopher/ai/initialize/gorm.go:77	register table success
+[github.com/irisAlex/ai/server]2025-05-21 18:47:32.619	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-21 18:47:33.578	[34minfo[0m	/Users/libin/gopher/ai/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-21 19:09:44.859	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-21 19:09:44.862	[34minfo[0m	/Users/libin/gopher/ai/pkg/core/server_run.go:59	WEB服务已关闭
