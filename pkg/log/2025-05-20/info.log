@@ -1,0 +1,6 @@
+[github.com/irisAlex/ai/server]2025-05-20 22:14:32.196	[34minfo[0m	/Users/libin/gopher/gin-vue-admin/initialize/router.go:71	register swagger handler
+[github.com/irisAlex/ai/server]2025-05-20 22:14:32.196	[34minfo[0m	/Users/libin/gopher/gin-vue-admin/initialize/plugin.go:10	项目暂未初始化，无法安装插件，初始化后重启项目即可完成插件安装
+[github.com/irisAlex/ai/server]2025-05-20 22:14:32.197	[34minfo[0m	/Users/libin/gopher/gin-vue-admin/initialize/router.go:120	router register success
+[github.com/irisAlex/ai/server]2025-05-20 22:17:55.880	[34minfo[0m	/Users/libin/gopher/gin-vue-admin/api/v1/system/sys_initdb.go:57	前往初始化数据库
+[github.com/irisAlex/ai/server]2025-05-20 22:28:08.587	[34minfo[0m	/Users/libin/gopher/gin-vue-admin/pkg/core/server_run.go:48	关闭WEB服务...
+[github.com/irisAlex/ai/server]2025-05-20 22:28:08.589	[34minfo[0m	/Users/libin/gopher/gin-vue-admin/pkg/core/server_run.go:59	WEB服务已关闭
